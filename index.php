@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-hello 
-this is a new line I want to merge this stuff
 
+I want to take a bunch of stuff out
 =======
 this is some more stuff 
 this is hello
